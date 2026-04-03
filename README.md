@@ -1,63 +1,61 @@
-# Olá, eu sou Felipe Prado 👋
+# Olá, eu sou o Felipe
 
-## Desenvolvedor Full Stack | Especialista em Automações & IA
+## Desenvolvedor Full Stack | Especialista em Automações
 
-Estudante de Engenharia de Software e desenvolvedor apaixonado por unir código e inteligência artificial para criar soluções reais. Com experiência em sistemas em nuvem e automação de processos, foco em desenvolver aplicações escaláveis e "agentes" que trabalham por nós.
+Desenvolvedor apaixonado por criar soluções digitais eficientes e escaláveis. Com quase 2 anos de experiência, transformo ideias em aplicações funcionais que resolvem problemas reais.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### Backend & Scripting
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Banco de Dados
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### DevOps, Infra & Automação
+### DevOps & Infraestrutura
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Automação & Integrações
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 🛠 O que eu faço
+## O que eu faço
 
-- 🤖 **Automação Inteligente**: Criação de fluxos complexos com **n8n** e agentes de IA para otimizar processos (SDR, Vendas, Atendimento).
-- 🌐 **Desenvolvimento Web**: Aplicações modernas utilizando **Next.js** e **React**.
-- 📊 **Sistemas Financeiros**: Desenvolvimento de soluções como o **FinAI** para gestão inteligente.
-- 🕷️ **Web Scraping**: Coleta e processamento de dados para monitoramento de oportunidades.
-- 📞 **Infraestrutura VoIP**: Configuração de servidores e integração de telefonia (Asterisk/SBC).
+- **Desenvolvimento Web**: Sites e webapps responsivos e modernos
+- **Automações**: Fluxos de trabalho inteligentes com n8n
+- **Integrações**: Conexão entre sistemas através de APIs
+- **Banco de Dados**: Modelagem e otimização com PostgreSQL, MySQL e MongoDB
+- **Backend**: APIs RESTful robustas com Node.js
+- **Infraestrutura**: Deploy e administração de servidores Linux
+- **Containerização**: Gerenciamento de ambientes isolados e escaláveis com Docker e Docker Compose
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/FelipePrado0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipePrado0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePrado0&layout=compact&theme=radical"/>
-  </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=FelipePrado0&theme=radical" alt="FelipePrado0" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelipePrado0&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
-## 📫 Vamos conversar?
+## Entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-prado-6973aa213/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipeommelo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipegreck2015@gmail.com)
+
+---
