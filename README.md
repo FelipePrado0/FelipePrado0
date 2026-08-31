@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Felipe 👋
+# Olá, eu sou o Felipe
 
 ### Desenvolvedor Full Stack | Especialista em Automações
 
@@ -62,9 +62,9 @@ Desenvolvedor Full Stack apaixonado por criar soluções digitais eficientes e e
 - **Banco de Dados**: Modelagem e otimização com PostgreSQL, MySQL, MongoDB e Redis
 - **Automações**: Fluxos de trabalho inteligentes com n8n
 - **Infraestrutura**: Docker e administração de servidores Linux
-- **Suporte Técnico N2/N3** *(complementar)*: Diagnóstico e resolução de incidentes, documentação técnica
-- **Testes & QA** *(complementar)*: Automação com Playwright e Pytest, testes funcionais e de regressão
-- **Observabilidade** *(complementar)*: Dashboards em Grafana e Prometheus; validação de APIs com Postman
+- **Suporte Técnico N2/N3**: Diagnóstico e resolução de incidentes, documentação técnica
+- **Testes & QA**: Automação com Playwright e Pytest, testes funcionais e de regressão
+- **Observabilidade**: Dashboards em Grafana e Prometheus; validação de APIs com Postman
 
 ---
 
