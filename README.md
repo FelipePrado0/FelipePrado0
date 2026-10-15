@@ -10,7 +10,7 @@
 
 </div>
 
-Desenvolvedor Full Stack apaixonado por criar soluções digitais eficientes e escaláveis. Com quase 2 anos de experiência, transformo ideias em aplicações funcionais que resolvem problemas reais. Complementarmente, atuo com suporte técnico N2/N3, automação de testes (Playwright/Pytest) e observabilidade de sistemas (Grafana, Prometheus), o que agrega profundidade na análise, diagnóstico e documentação das soluções que desenvolvo.
+Desenvolvedor Full Stack apaixonado por criar soluções digitais eficientes e escaláveis. Transformo ideias em aplicações funcionais que resolvem problemas reais. Complementarmente, atuo com suporte técnico N2/N3, automação de testes (Playwright/Pytest) e observabilidade de sistemas (Grafana, Prometheus), o que agrega profundidade na análise, diagnóstico e documentação das soluções que desenvolvo.
 
 ---
 
